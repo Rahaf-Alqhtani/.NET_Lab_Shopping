@@ -1,6 +1,6 @@
 <h1 align="center">
  
-  .NET Lab: .
+  .NET Lab: Shopping.
   <br>
 </h1>
 
